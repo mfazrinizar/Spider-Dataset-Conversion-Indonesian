@@ -203,3 +203,6 @@ _*.py
 _*.txt
 *.md
 !README.md
+data/idspider/*
+!data/idspider/README.md
+*.zip
