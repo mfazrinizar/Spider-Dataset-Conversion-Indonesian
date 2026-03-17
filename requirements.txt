@@ -1,3 +1,5 @@
-googletrans==3.1.0a0
-hyper
-pandas
+googletrans==4.0.2
+tqdm
+tenacity
+memoization
+nest_asyncio

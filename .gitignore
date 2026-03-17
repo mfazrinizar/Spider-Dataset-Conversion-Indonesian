@@ -198,3 +198,8 @@ data/extracted/*
 
 # Misc
 .VSCodeCounter/
+.VSCode/
+_*.py
+_*.txt
+*.md
+!README.md
